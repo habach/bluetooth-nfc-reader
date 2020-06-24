@@ -27,7 +27,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 PROJECTNAME=NFC-bluetooth.X
 
 # Active Configuration
-DEFAULTCONF=id2
+DEFAULTCONF=default_id1
 CONF=${DEFAULTCONF}
 
 # All Configurations
